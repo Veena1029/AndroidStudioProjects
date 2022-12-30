@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="subjectlist">
+        <item>python</item>
+        <item>c</item>
+        <item>mad</item>
+        <item>go</item>
+    </string-array>
+</resources>

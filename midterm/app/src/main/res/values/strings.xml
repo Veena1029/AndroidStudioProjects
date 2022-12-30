@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="types">
+        <item>iPhone 7</item>
+        <item>iPhone 8</item>
+        <item>iPhone 6s Plus</item>
+        <item>iPhone 3GS</item>
+        <item>iPhone SE</item>
+        <item>iPhone 5s</item>
+        <item>iPhone 6 Plus</item>
+    </string-array>
+</resources>
